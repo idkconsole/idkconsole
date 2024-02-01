@@ -50,4 +50,3 @@ class AboutMe(DeveloperProfile):
     <img src="https://skillicons.dev/icons?i=python,vscode,androidstudio,js,css,html" />
   </a>
 </p>
-```
